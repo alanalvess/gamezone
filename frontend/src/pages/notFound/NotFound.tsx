@@ -1,0 +1,19 @@
+import { useNavigate } from 'react-router-dom';
+import { Helmet } from 'react-helmet';
+
+export default function NotFound() {
+  const navigate = useNavigate();
+
+  setTimeout(() => {
+    navigate('/');
+  }, 5000);
+
+  return (
+    <>
+      <Helmet>
+        <title>GameZone | 404</title>
+      </Helmet>
+      <h2>404 nada por aqui</h2>
+    </>
+  )
+}
