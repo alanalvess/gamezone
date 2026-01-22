@@ -35,8 +35,8 @@
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/alanalvess/gamezone-frontend.git
-   cd gamezone-frontend
+   git clone https://github.com/alanalvess/gamezone.git
+   cd frontend
    ```
 
 2. **Instale as dependências**

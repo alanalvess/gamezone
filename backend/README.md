@@ -52,7 +52,8 @@ Resposta (201 - Created)
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/alanalvess/gamezone-api.git
+   git clone https://github.com/alanalvess/gamezone.git
+   cd backend
    ```
 2. **Abra na sua IDE** e execute o projeto.
 
