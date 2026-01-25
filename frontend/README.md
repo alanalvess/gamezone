@@ -53,6 +53,7 @@
 4. **Execute o projeto em modo desenvolvimento**
    ```bash
    npm run dev
+   ```
 
 5. Acesse no navegador:  
    👉 `http://localhost:5173`
@@ -68,7 +69,7 @@
 
 ## 🖥 Backend do Projeto
 Para que o frontend funcione corretamente, é necessário rodar o backend:  
-🔗 [GameZone API](https://github.com/alanalvess/gamezone-backend)
+🔗 [GameZone API](https://github.com/alanalvess/gamezone/tree/main/backend)
 
 ---
 
