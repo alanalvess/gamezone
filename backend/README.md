@@ -75,9 +75,9 @@ Resposta (201 - Created)
 ## 🖥 Frontend do Projeto
 Você pode testar direto no frontend usando o repositório:
 
-🔗 [GameZone Frontend](https://github.com/alanalvess/gamezone-frontend)
+🔗 [GameZone Frontend](https://github.com/alanalvess/gamezone/tree/main/frontend)
 
-![home.jpg](https://github.com/alanalvess/gamezone-frontend/blob/main/src/assets/img/home.jpg?raw=true)
+![home.jpg](../home.jpg)
 
 ---
 

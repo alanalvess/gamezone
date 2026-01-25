@@ -64,7 +64,7 @@
 ### Listagem de Produtos
 > Exibe todos os produtos cadastrados.
 
-![home.jpg](src/assets/img/home.jpg)
+![home.jpg](./src/assets/img/home.jpg)
 ---
 
 ## 🖥 Backend do Projeto
